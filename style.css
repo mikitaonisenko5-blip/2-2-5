@@ -20,32 +20,32 @@ img{
 }
 h1{
 	text-align:center;
-	collor:#ac1406;
+	color:#ac1406;
 	font-size:50px;
 }
 h2{
 	font-size:40px;
 	padding-top:20px;
-	collor:#213210;
+	color:#213210;
 	text-align:center;
 }
 h3{
 	fant-size:30px;
 	text-align:center;
 	padding-top:20px;
-	collor:#213210;
+	color:#213210;
 }
 h4{
 	font-size:20px;
 	text-align:center;
 	padding-top:10px;
 	padding-bottom:10px;
-	collor:#fff;
+	color:#fff;
 	background:#738b2a;
 	padding-top:10px;
 }
 p{
-collor:#00066;
+color:#00066;
 fant-size:20px;
 }
 .poem{
